@@ -1,0 +1,55 @@
+body{
+    font-family: 'Langar', cursive;
+    background: rgb(255, 209, 241);
+}
+.header_div
+{
+    background: springgreen;
+    color: turquoise;
+}
+.header_div img
+{
+    width:100px;
+}
+.main_div{
+    background: royalblue;
+    padding:10px;
+    margin-top: 15px;
+    border:3px solid white;
+}
+.main_div label{
+    background: white;
+    width:310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow:5px 5px 18px black;
+}
+.main_div button{
+    box-shadow:5px 5px 18px black;
+    font-size: 16px;
+    width: 310px;
+    border: 1px solid;
+}
+#camera{
+    box-shadow:5px 5px 18px black;
+    width: 310px;
+    height: 300px;
+    border: 2px solid white;
+}
+#result{
+    box-shadow:5px 5px 18px black;
+    width: 310px;
+    height: 300px;
+    border: 2px solid white;
+}
+
+.footer_div img{
+    width: 125px;
+}
+.footer_div{
+    width: 550px;
+    background: snow;
+    box-shadow:5px 5px 18px black;
+    border-radius: 25px;
+    margin-left: 300px;
+}
